@@ -1,6 +1,4 @@
-<div align="center">
-    <img src ="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Carlos%20Araujo&reversal=false&descAlign=39&descAlignY=10&textBg=false&fontAlignY=50">
-</div>
+![Carlos Araujo](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Carlos%20Araujo&reversal=false&descAlign=39&descAlignY=10&textBg=false&fontAlignY=50)
 
 ## 🚀 Software Developer
 
