@@ -1,4 +1,6 @@
-# Carlos Araujo
+<div align="center">
+    <img src ="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Carlos%20Araujo&reversal=false&descAlign=39&descAlignY=10&textBg=false&fontAlignY=50">
+</div>
 
 ## 🚀 Software Developer
 
@@ -10,8 +12,6 @@ Welcome to my GitHub profile! A cloud-focused Full Stack Developer proficient in
 - 🌱 Currently exploring new frameworks and best practices
 - 🎯 Committed to writing clean, maintainable code
 - 🤝 Open to collaboration on interesting projects
-
-### Tech Stack
 
 ### Tech Stack
 
