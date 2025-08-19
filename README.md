@@ -27,11 +27,14 @@ Here are the projects that showcase my skills in building end-to-end application
         </a>
       </p>
       <p>A secure, full-stack web application for authenticated users to upload audio files for AI-powered transcription. This project demonstrates my ability to architect a complete authentication system (JWT), integrate third-party REST APIs, and manage an end-to-end data pipeline.</p>
-      <p align="center">
+     <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+        <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -44,6 +47,7 @@ Here are the projects that showcase my skills in building end-to-end application
       <p>A full-stack, browser-based multiplayer game where players interact in real-time. This project showcases my ability to architect a stateful backend to manage concurrent user data and develop a dynamic front-end using the HTML5 Canvas API.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/JavaScript_(ES6)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript ES6">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -63,6 +67,8 @@ Here are the projects that showcase my skills in building end-to-end application
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -103,6 +109,14 @@ Here are the projects that showcase my skills in building end-to-end application
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
+
+---
+
+### ✨ Fun Facts
+
+- 🚵‍♂️ When I'm not coding, you can find me riding my bicycle or exploring new technologies.
+- 📚 I enjoy reading tech blogs and staying updated with industry trends.
+- 🌍 I believe in the power of technology to make a positive impact.
 
 ---
 
