@@ -4,11 +4,11 @@
 
 <h1 align="center">Backend Software Engineer</h1>
 <p align="center">
-  <em>From Civil Engineering Blueprints to Software Architecture</em>
+  <em>Architecting Scalable and Resilient Backend Systems</em>
 </p>
 
 <p align="center">
-  With a foundation of 11 years in formal engineering, I now apply a decade of discipline in problem-solving and systems thinking to build robust, scalable backend solutions. My passion is architecting clean, efficient software that lasts.
+  A dedicated Backend Software Engineer with a passion for architecting clean, scalable systems. I thrive on solving complex problems by applying rigorous engineering principles to build efficient and reliable backend solutions.
 </p>
 
 ---
@@ -66,7 +66,7 @@ Here are the projects that showcase my skills in building end-to-end application
       </p>
     </td>
     <td width="50%" valign="top">
-      <!-- Puedes dejar este espacio en blanco o añadir un cuarto proyecto en el futuro -->
+      <!-- You can add a fourth project here in the future -->
     </td>
   </tr>
 </table>
@@ -80,6 +80,7 @@ Here are the projects that showcase my skills in building end-to-end application
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
@@ -96,18 +97,11 @@ Here are the projects that showcase my skills in building end-to-end application
   <strong>Frontend & Tools:</strong><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
-
----
-
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-araujo-aus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Carlos's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-araujo-aus&layout=compact&langs_count=7&theme=dracula" alt="Carlos's Top Languages">
 </p>
 
 ---
@@ -118,7 +112,7 @@ Here are the projects that showcase my skills in building end-to-end application
   <a href="https://linkedin.com/in/carlos-araujo-software-engineer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:carlos.araujo.aus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://carlostech.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=cpanel&logoColor=white" alt="Portfolio Website">
   </a>
 </p>
