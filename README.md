@@ -50,7 +50,7 @@ Here are the projects that showcase my skills in building end-to-end application
       </p>
     </td>
   </tr>
-  <tr>
+ <tr>
     <td width="50%" valign="top">
       <h4 align="center">🛒 E-commerce Shopping Cart App</h4>
       <p align="center">
@@ -66,7 +66,7 @@ Here are the projects that showcase my skills in building end-to-end application
       </p>
     </td>
     <td width="50%" valign="top">
-      <!-- You can add a fourth project here in the future -->
+      <!-- To add a fourth project -->
     </td>
   </tr>
 </table>
