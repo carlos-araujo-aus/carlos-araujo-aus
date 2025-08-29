@@ -23,7 +23,7 @@ Here are the projects that showcase my skills in building end-to-end application
       <h4 align="center">🚀 AI Sentiment Analyzer</h4>
       <p align="center">
         <a href="https://github.com/carlos-araujo-aus/sentiment-analyzer-frontend" target="_blank">
-          <img src="https://raw.githubusercontent.com/carlos-araujo-aus/gif-landing-pages/refs/heads/main/2.gif" alt="AI Sentiment Analyzer" style="width:100%;">
+          <img src="https://raw.githubusercontent.com/carlos-araujo-aus/gif-landing-pages/refs/heads/main/2a.gif" alt="AI Sentiment Analyzer" style="width:100%;">
         </a>
       </p>
       <p>This is a production-grade, full-stack web application that showcases a complete, end-to-end development lifecycle. It performs sentiment and emotion analysis on user-submitted text, featuring a multi-layered security strategy and a decoupled, multi-cloud architecture.</p>
@@ -41,7 +41,7 @@ Here are the projects that showcase my skills in building end-to-end application
       <h4 align="center">🤖 AI Transcription Web Application</h4>
       <p align="center">
         <a href="https://github.com/carlos-araujo-aus/app_translator_monorepo" target="_blank">
-          <img src="https://raw.githubusercontent.com/carlos-araujo-aus/gif-landing-pages/refs/heads/main/1.gif" alt="AI Transcription Web Application" style="width:100%;">
+          <img src="https://raw.githubusercontent.com/carlos-araujo-aus/gif-landing-pages/refs/heads/main/1a.gif" alt="AI Transcription Web Application" style="width:100%;">
         </a>
       </p>
       <p>A secure, full-stack web application for authenticated users to upload audio files for AI-powered transcription. This project demonstrates my ability to architect a complete authentication system (JWT), integrate third-party REST APIs, and manage an end-to-end data pipeline.</p>
