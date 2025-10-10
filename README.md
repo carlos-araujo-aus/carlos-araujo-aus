@@ -23,14 +23,11 @@ Here are the projects that showcase my skills in building end-to-end application
     <td width="50%" valign="top">
       <h4 align="center">🚀 AI Sentiment Analyzer</h4>
       <p align="center">
-        <!-- CORRECTED LINK -->
-        <a href="https://github.com/carlos-araujo-aus/sentiment-analyzer-frontend" target="_blank">
+        <a href="https://github.com/carlos-araujo-aus/app_translator_monorepo" target="_blank">
           <img src="https://raw.githubusercontent.com/carlos-araujo-aus/gif-landing-pages/refs/heads/main/1a.gif" alt="AI Sentiment Analyzer" style="width:100%;">
         </a>
       </p>
-      <!-- CORRECTED DESCRIPTION -->
       <p>A full-stack web application built to perform real-time sentiment and emotion analysis by integrating with the IBM Watson AI. The backend is a secure Python/Flask REST API, protected by Google reCAPTCHA and a hybrid rate-limiting strategy. The frontend is a modern, type-safe single-page application built with React and TypeScript, featuring dynamic data visualizations and robust state management with Redux Toolkit.</p>
-      <!-- CORRECTED BADGES -->
       <p align="center">
         <!-- Frontend -->
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -49,14 +46,11 @@ Here are the projects that showcase my skills in building end-to-end application
     <td width="50%" valign="top">
       <h4 align="center">🤖 AI Transcription Web Application</h4>
       <p align="center">
-        <!-- CORRECTED LINK -->
-        <a href="https://github.com/carlos-araujo-aus/app_translator_monorepo" target="_blank">
+        <a href="https://github.com/carlos-araujo-aus/sentiment-analyzer-frontend" target="_blank">
           <img src="https://raw.githubusercontent.com/carlos-araujo-aus/gif-landing-pages/refs/heads/main/2a.gif" alt="AI Transcription Web Application" style="width:100%;">
         </a>
       </p>
-      <!-- CORRECTED DESCRIPTION -->
       <p>A full-stack web application that allows authenticated users to upload or record audio for transcription via the Deepgram AI API. Its backend is built with Node.js and Express, featuring a secure, token-based authentication system using Passport.js and JWT. The interactive frontend, built with React and Bootstrap, handles file uploads and live browser audio recording.</p>
-      <!-- CORRECTED BADGES -->
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -75,7 +69,7 @@ Here are the projects that showcase my skills in building end-to-end application
 
 ### 🛠️ My Tech Stack
 
-<!-- CORRECTED TECH STACK SECTION -->
+
 <p align="center">
   <strong>Languages & Paradigms:</strong><br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
